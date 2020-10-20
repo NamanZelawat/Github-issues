@@ -1,2 +1,2 @@
 # Github-issues
-A react similar to github issues page.
+A react application similar to github issues page.
